@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+// sturcture
 struct node{
     int data;
     struct node *prev;
